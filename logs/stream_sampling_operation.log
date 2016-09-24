@@ -1,0 +1,7 @@
+24 Sep 2016 15:43:01,306      - [main]LogUtils.initialize(): ***************** Loggers Initialized *********************
+24 Sep 2016 15:43:01,313      - [main]Solution.main(): Please enter the sample size
+24 Sep 2016 15:43:06,972      - [main]Solution.main(): Please enter the first stream
+24 Sep 2016 15:43:09,861      - [main]SamplingHandler.HandleStreamSampling(): Start sampling from both streams with Reservoir Sampling Algorithm 
+24 Sep 2016 15:43:09,944      - [main]SamplingHandler.HandleStreamSampling(): result from Reservoir Sampling Algorithm is GDGAJ
+24 Sep 2016 15:43:10,126      - [main]SamplingHandler.HandleStreamSampling(): Start sampling from both streams with my Algorithm
+24 Sep 2016 15:43:10,137      - [main]SamplingHandler.HandleStreamSampling(): result from my Algorithm is CKJFN
